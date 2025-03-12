@@ -1,0 +1,5 @@
+C:\Users\fahad\OneDrive\Desktop\Combination Text Files\Output for 160 CIF file\30_32_il000_w4.cif	0.000 eV
+C:\Users\fahad\OneDrive\Desktop\Combination Text Files\Output for 160 CIF file\30_32_il001_w4.cif	0.000 eV
+C:\Users\fahad\OneDrive\Desktop\Combination Text Files\Output for 160 CIF file\30_32_il002_w4.cif	0.000 eV
+C:\Users\fahad\OneDrive\Desktop\Combination Text Files\Output for 160 CIF file\30_32_il003_w4.cif	0.000 eV
+C:\Users\fahad\OneDrive\Desktop\Combination Text Files\Output for 160 CIF file\30_32_il004_w4.cif	0.000 eV
